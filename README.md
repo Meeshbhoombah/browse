@@ -1,3 +1,4 @@
-# Browser History Analysis
-https://applecrazy.github.io/blog/posts/analyzing-browser-hist-using-python/
+# Analyzing my Browser History
+Sitting on your harddrive tucked away in your "hidden" system files rests a database
+with information so powerful it would make any executive at the Big 5 **salivate**.
 
