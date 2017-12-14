@@ -1,2 +1,3 @@
-# history
-Analyze browser history with Python and Pandas
+# Browser History Analysis
+https://applecrazy.github.io/blog/posts/analyzing-browser-hist-using-python/
+
