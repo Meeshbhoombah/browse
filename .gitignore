@@ -1,9 +1,13 @@
+# Project - History
+hist.txt
+hist.csv
+
+# Mac 
+.DS_Store
+
 # Vim
 *.swp
 *.swo
-
-# History
-hist.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
