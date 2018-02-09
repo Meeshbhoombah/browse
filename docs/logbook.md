@@ -14,3 +14,5 @@ Luckily, I use Wakatime to track my programming performance, and push all my cod
 These two things, combined with the browser history I have, could provide a basis for a 
 dataset that is very actionable.
 
+## Scope First, ask Questions Later
+
