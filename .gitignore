@@ -1,5 +1,6 @@
 # Project - History
 datasets/
+config.py
 
 # Mac 
 .DS_Store
