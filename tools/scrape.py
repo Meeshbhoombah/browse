@@ -14,7 +14,10 @@ import os
 CHROME_HISTORY_SRC = "/Users/rohan/Library/Application Support/Google/Chrome/Default/History"
 
 # connect to History database
-conn = sqlite3.connect(CHROME_HISTORY_SRC)
+try:
+    conn = sqlite3.connect(CHROME_HISTORY_SRC)
+except OperationError:
+    print("Cannot scrape Chrome browser history while Chrome is still open.")
 
 # create a datasets folder
 os.makedirs("datasets")
